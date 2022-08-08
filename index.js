@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const routes = require('./routes/routes');
 require('dotenv').config();
 
-const mongoString = 'mongodb+srv://Ayoseun:Jared15$@cluster0.jkgmam0.mongodb.net/test';
+const mongoString = 'mongodb+srv://Ayoseun:<password>$@cluster0.jkgmam0.mongodb.net/test';
 
 
 
